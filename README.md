@@ -1,8 +1,8 @@
 ## bankist-website
-![Animation](https://github.com/bbluechip/voltran/blob/master/images/Animation.gif)
+![Animation](https://github.com/bbluechip/bankist-webpage/blob/master/img/Animation.gif)
 
 
-👉[Click here to see the page](https://bbluechip.github.io/voltran/)
+👉[Click here to see the page](https://bbluechip.github.io/bankist-webpage/)
 
 ## Project Skeleton 
 
